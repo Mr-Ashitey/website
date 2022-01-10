@@ -87,7 +87,7 @@ Install the following tools, if you don't have them already:
   These instructions assume you're using `bash`, 
   and setup might not work if you use another shell.
 - **GNU Make**. 
-  On Windows the easiest way to install Make is `choco install make`. 
+  On Windows, the easiest way to install Make is `choco install make`. 
   Other options include using a [subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10). 
 - **Docker**. 
   We use Docker for local dev, tests, and building the site. 
