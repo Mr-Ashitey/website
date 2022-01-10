@@ -284,7 +284,7 @@ For more information on using and writing for this repo, refer to the following 
 * [Examples](https://github.com/dart-lang/site-shared/blob/master/doc/examples.md)
 * [Code excerpts](https://github.com/dart-lang/site-shared/blob/master/doc/code-excerpts.md)
 
-Also check out the site-shared [wiki](https://github.com/dart-lang/site-shared/wiki):
+Also, check out the site-shared [wiki](https://github.com/dart-lang/site-shared/wiki):
 
 * [Images](https://github.com/dart-lang/site-shared/wiki/Images)
 * [Mobile friendly pages: tips & tricks](https://github.com/dart-lang/site-shared/wiki/Mobile-friendly-pages:-tips-&-tricks)
